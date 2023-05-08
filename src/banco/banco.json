@@ -1,0 +1,139 @@
+{
+    "Categorias": [
+        {"id": 1, "título": "Geladeiras"},
+        {"id": 3, "título": "Televisores"}
+    ],
+    "Produtos": [
+        {
+            "id": 1, 
+            "catId": 1, 
+            "título": "Geladeira Brastemp Frost Free Duplex 375 litros com Compartimento Extrafrio - BRM44HK • 110V",
+            "codigoProduto": "BRM44HK",
+            "imagem": "10213776.jpg",
+            "preço": "3039,05",
+            "quantidade em estoque": "30529",
+            "descrição": "A Geladeira Brastemp Frost Free Duplex BRM44 375 litros conta com design sofisticado e grande capacidade para armazenar os alimentos. Vem com Painel Eletrônico, compartimento Latas e Long Necks e compartimento Extrafrio.",
+            "especificações": {"Dimensões": "176 X 62,1cm X 75,5cm (A x L x P)", "Capacidade": "375 litros" },
+            "características": ["Compartimento extrafrio", "Gavetão de legumes Fresh Zone", "Acesso Rápido", "Temperos"],
+            "estoque": 200
+        },
+        {
+            "id": 2, 
+            "catId": 1, 
+            "título": "Geladeira Brastemp Frost Free Inverse 588 litros cor Inox com Smart Bar BRE85AK • 220V",
+            "codigoProduto": "BRE85AK",
+            "imagem": "10213776.jpg",
+            "preço": "4749,05",
+            "quantidade em estoque": "50212",
+            "descrição": "10205942A Geladeira Brastemp Frost Free Inverse 588 litros é elegante por fora e gigante por dentro! Possui altissima capacidade para armazenar todos seus alimentos de maneira inteligente. A Geladeira conta o Twist Ice Advanced, que tem abastecedor de água independente e desenforma o gelo com apenas um giro. E o Fresh Box, um gavetão com alta capacidade para manter seus alimentos frescos e organizados.",
+            "especificações": {"Dimensões": "187,9cm X 83,7cm X 79,1cm (A x L x P)", "Capacidade": "588 litros"},
+            "características": ["Super Capacidade", "Configuração inverse", "Painel Touch Black", "Twist Ice Advanced", "Fresh Box", "Delicates", "Infinity Shelves", "Taças Nevadas"],
+            "estoque": 500
+        },
+        {
+            "id": 3,
+            "catId": 1,
+            "título": "Geladeira Brastemp Frost Free French Door A+++ 554 litros cor Inox - BRO85AK • 110V",
+            "codigoProduto": "BRO85AK",
+            "imagem": "10205751.jpg",
+            "preço": "6364,05",
+            "quantidade em estoque": "45000",
+            "descrição": "A Geladeira Brastemp Frost Free French Door BRO85 554 litros traz mais tecnologia e sofisticação para a sua cozinha. Com Tecnologia Inverter A+++, economiza até 30% de energia* e mantém a temperatura estável, o que ajuda na preservação dos alimentos. Acabamento que protege sua geladeira da ferrugem e corrosão e conta com 3 anos de garantia**. *A Tecnologia Inverter A+++, economiza até 30% de energia em relação a classificação energética A do INMETRO. **Contra Ferrugem e corrosão na porta da sua geladeira.",
+            "especificações": {"Dimensões":"186,4cm X 83,6cm X 79,3cm (A x L x P)", "Capacidade": "554 litros"},
+            "características": ["Tecnologia Inverter A++++", "Painel Touch Black", "Carbon Airfilter", "Acabamento em cor Inox", "Iluminação em LED", "Função Turbo Freezer", "Design Premium", "Taças Nevadas", "Infinity Shelves"],
+            "estoque": 300            
+        },
+        {
+            "id": 4,
+            "catId": 1,
+            "título": "Geladeira Brastemp Frost Free Duplex 375 litros cor Inox com Espaço Adapt - BRM45JK • 110V",
+            "codigoProduto": "BRM45JK" , 
+            "imagem": "10212871.jpg", 
+            "preço": "3704,05",
+            "quantidade em estoque": "54564" , 
+            "descrição": "A Geladeira Brastemp Frost Free Duplex BRM54 400 litros Evox possui o exclusivo compartimento Freeze Control, que conserva carnes por até 5 dias sem congelar* e deixa tanto bebidas como frios e laticínios na temperatura ideal. Pelo Painel Eletrônico você acessa o Controle de Temperatura e os Modos Especiais: Compras, Festa e Férias.", 
+            "especificações": {"Dimensões": "185 X 62 X 75,5cm (A x L x P)", "Capacidade": "400 litros"},
+            "características": ["Painel Eletrônico", "Freeze Cloud", "Espaço Adapt", "Gavetão de legumes Fresh Zone", "Tecnologia Evox"],
+            "estoque": 100
+        },
+        {
+            "id": 5,
+            "catId": 1,
+            "título": "Geladeira Brastemp Inverse 3 Frost Free 419 litros cor Inox com Freeze Control Pro-BRY59CK • 110V",
+            "codigoProduto": "BRY59CK", 
+            "imagem": "10213409.jpg", 
+            "preço": "5600,25",
+            "quantidade em estoque": "454512", 
+            "descrição": "A Geladeira Brastemp Frost Free Inverse 3 com 419 litros possui configuração Inverse, com geladeira em cima e freezer embaixo, deixando os alimentos na altura dos seus olhos. Com o Freeze Control PRO tenha 3 compartimentos com controle de temperatura independente e escolha entre 4 modos: carnes prontas para corte, cerveja a -4°C, frios e laticínios além de vinhos e espumantes. Possui também o Turbo Ice para fabricar gelo em até 3 horas e o Twist Ice Advanced para abastecer as formas de gelo sem molhar o chão.", 
+            "especificações": {"Dimensões":"194 X 70cm X 75cm (A x L x P)", "Capacidade": "419 litros"},
+            "características": ["Freeze Control Pro", "Turbo Ice", "Twist Ice Advanced", "Espaço Adapt", "Função Turbo Freezer", "Iluminação em LED"],
+            "estoque": 150          
+        },
+        {
+            "id": 6,
+            "catId": 3,
+            "título": "Smart TV 55 QLED 4K 55Q70C 2023",
+            "codigoProduto": "55Q70C" , 
+            "imagem": "M10213562_001.jpg", 
+            "preço": "4388,05",
+            "quantidade em estoque": "787984", 
+            "descrição": "Tecnologia de Pontos Quânticos: 100% volume de cor, com certificação PANTONE\nAté 120Hz de Taxa de Atualização com o Motion Xcelerator Turbo\nProcessador Quantum 4K: Transforme os seus conteúdos em resolução próxima a 4K\nSamsung Gaming Hub: O seu videogame dentro da sua TV\nSmart Hub Tizen Samsung: Seus filmes, programas e jogos em um só lugar\nDesign Air Slim com base ajustável: Elegante e fina como nunca", 
+            "especificações": {"Dimensões": " TV com suporte: 1232,9 x 774,1 x 255,9 mm (L x A x P) - TV: 1232,9 x 708,7 x 25,7 mm (L x A x P) - Com embalagem: 1399 x 846 x 148 mm (L x A x P)"} ,
+            "características": ["NFC no Painel", "Tap View", "App para video chamada", "Multitela", "Music Wall", "Suporte para câmera móvel", "Configuração facilitada", "Casting de app", "Bate papo (Chat Together)", "Modo Ambiente", "Wireless Dex", "Web Service"],
+            "estoque": 5
+        },
+        {
+            "id": 7,
+            "catId": 3,
+            "título": "Smart TV 50 QLED 4K 50Q60C 2023" ,
+            "codigoProduto": "50Q60C", 
+            "imagem":"10221968.jpg", 
+            "preço": "3039,05",
+            "quantidade em estoque": "4564561", 
+            "descrição": "Tecnologia de Pontos Quânticos: 100% volume de cor, com certificação PANTONE\nProcessador Quantum Lite 4K: Transforme os seus conteúdos em resolução próxima a 4K\nDesign Air Slim com base ajustável: Sem bordas aparentes, elegante e fina como nunca\nDesign Air Slim com base ajustável: Sem bordas aparentes, elegante e fina como nunca\nMotion Xcelerator: Chegou a hora de dar um up no seu jogo\nTela Super Ultra-Wide e Menu de Jogos: A proporção e o controle que você precisa para o seu jogo", 
+            "especificações": {"Dimensões": " Tv com suporte: 1118,3 x 681,8 x 224 mm (L x A x P) - Tv: 1118,3 x 644,1 25,8 mm (L x A x P) - Com embalagem: 1246 x 761 x 131 mm (L x A x P)"},
+            "características": ["NFC no Painel", "Tap View", "App para video chamada", "Multitela", "Music Wall", "Suporte para câmera móvel", "Configuração facilitada", "Bate papo (Chat Together)", "Modo Ambiente", "Web Service"],
+            "estoque": 3
+        },
+        {
+            "id": 8,
+            "catId": 3,
+            "título": "Smart TV 55 QLED 4K 55Q65C 2023",
+            "codigoProduto": "55Q65C", 
+            "imagem": "M10222398.jpg" , 
+            "preço": "3229,05",
+            "quantidade em estoque": "456456", 
+            "descrição": "Tecnologia de Pontos Quânticos: 100% volume de cor, com certificação PANTONE\nProcessador Quantum Lite 4K: Transforme os seus conteúdos em resolução próxima a 4K\nDesign Air Slim com base ajustável\nSem bordas aparentes, elegante e fina como nunca\nSamsung Gaming Hub: O seu videogame dentro da sua TV\nMotion Xcelerator: Chegou a hora de dar um up no seu jogo\nTela Super Ultra-Wide e Menu de Jogos: A proporção e o controle que você precisa para o seu jogo", 
+            "especificações": {"Dimensões": " Tv com suporte: 1232,1 x 773,8 x 249,1 mm (L x A x P) - Tv: 1232,1 x 708,3 x 25,7 mm (L x A x P) - Com embalagem: 1399 x 846 x 148 mm (L x A x P)"},
+            "características": ["NFC no Painel", "Tap View", "App para video chamada", "Multitela", "Music Wall", "Suporte para câmera móvel", "Configuração facilitada", "Bate papo (Chat Together)", "Modo Ambiente", "Web Service"],
+            "estoque": 6
+        },        
+        {
+            "id": 9,
+            "catId": 3,
+            "título": "Combo Cinema 55 - Smart TV 55 Neo QLED 4K QN85B + Soundbar HW-Q600B",
+            "codigoProduto": "QN85B e  HW-Q600B", 
+            "imagem": "M10226866.jpg", 
+            "preço": "4901,05",
+            "quantidade em estoque": "456156", 
+            "descrição": "Neo QLED. O poder do Mini LED\nProcessador Neural Quantum 4K: Inteligência Artificial e 20 redes neurais para upscaling de resolução\nDolby Atmos e Som em Movimento", 
+            "especificações": {"Dimensões": " Tv com suporte: 1227,4 x 767,9 x 253,0 mm (L x A x P) - Tv: 1227,4 x 705,6 x 26,9 mm (L x A x P) - Com embalagem: 1448 x 833 x 172 mm (L x A x P)"},
+            "características": ["Espelhamento do Painel para Mobile", "Espelhamento do Smartphone para Painel, DLNA", "NFC no Painel", "Tap View", "App para video chamada", "Multitela", "Music Wall", "360 Video Player", "Suporte à camera 360", "Bluetooth Low Energy", "WiFi Direct", "Som do Painel para Smartphone", "Espelhamento de Áudio", "Modo Ambiente"],
+            "estoque": 2
+        },
+        {
+            "id": 10,
+            "catId": 3,
+            "título": "Combo QLED 75 - Smart TV 75 QLED 4K Q70A + Soundbar HW-Q600B",
+            "codigoProduto": "Q70A e HW-Q600B", 
+            "imagem": "M10213562_008.jpg", 
+            "preço": "8168,10",
+            "quantidade em estoque": "4561561", 
+            "descrição": "QLED 100% do volume de cor para imagens vibrantes por muito mais tempo.\nMotion Xcelerator Turbo+: Ultraperformance no jogo.\nFreeSync Premium Pro.: Jogue sem esforço\nTela Ultra-Wide e menu de jogo.", 
+            "especificações": {"Dimensões": "Tv com suporte: 1677,5 x 1026,8 x 338,9 mm (L x A x P) - Tv: 1677,5 x 960,7 x 26,6 mm (L x A x P) - Com embalagem: 1834 x 1138 x 190 mm  (L x A x P)"},
+            "características": ["Espelhamento do Painel para Mobile", "Espelhamento do Smartphone para Painel, DLNA", "Tap View", "Multitela", "Music Wall", "Acesso remoto", "360 Video Player", "Suporte à camera 360", "Bluetooth Low Energy", "WiFi Direct", "Som do Painel para Smartphone", "Espelhamento de Áudio", "Modo Ambiente"],
+            "estoque": 16
+        }
+
+    ]    
+}
