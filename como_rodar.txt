@@ -1,6 +1,6 @@
 Antes de inicializar o projeto foi preciso instalar json-server para isso digte npm i json-server
 Para iniciar o servidor com os dados digite no terminal
-json-server --watch src/banco/banco.json --port 3001 = Devemos mudar a porta do servidor pois é a mesma
+npx json-server --watch src/banco/banco.json --port 3001 = Devemos mudar a porta do servidor pois é a mesma
 da aplicação do react, aqui no computador de casa esse comando deu erro, pois neste computador foi desabilitado
 a execução de scripts, caso você também enfrente esse problema vá no powershell como administrador e digite 
 Set-ExecutionPolicy Unrestricted e pressione S e dê enter.
