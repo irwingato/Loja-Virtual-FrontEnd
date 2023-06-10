@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/irwingato.github.io/Loja-Virtual-FrontEnd/static/css/main.f809164e.css",
+    "main.js": "/irwingato.github.io/Loja-Virtual-FrontEnd/static/js/main.7113e474.js",
+    "index.html": "/irwingato.github.io/Loja-Virtual-FrontEnd/index.html",
+    "main.f809164e.css.map": "/irwingato.github.io/Loja-Virtual-FrontEnd/static/css/main.f809164e.css.map",
+    "main.7113e474.js.map": "/irwingato.github.io/Loja-Virtual-FrontEnd/static/js/main.7113e474.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f809164e.css",
+    "static/js/main.7113e474.js"
+  ]
+}
